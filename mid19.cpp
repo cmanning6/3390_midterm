@@ -1,4 +1,4 @@
-// https://github.com/cmanning6/3390_midterm.git
+// github repo: https://github.com/cmanning6/3390_midterm.git
 //
 //
 //Author: Gordon Griesel
